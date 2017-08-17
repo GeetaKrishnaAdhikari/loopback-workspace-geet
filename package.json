@@ -28,7 +28,7 @@
     "strong-wait-till-listening": "^1.0.0"
   },
   "deprecated": false,
-  "description": "## About",
+  "description": "## Copy of loopback-workspace",
   "devDependencies": {
     "better-stack-traces": "^1.0.1",
     "bluebird": "^3.2.1",
